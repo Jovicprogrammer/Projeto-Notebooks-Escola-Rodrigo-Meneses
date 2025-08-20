@@ -18,5 +18,19 @@ Com o adquirimento de novos computadores laptop haverá mais facilidade de uso, 
 
 |   Componente  |     Mínimo    |  Recomendado  |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |  -----------  |
-| Content Cell  | Content Cell  |   xxx         |   
+| Processador  | Intel® Core™ i3  |  Intel® Core™ i5  |
+| Sistema operacional | Ubuntu® Linux® 22.04 LTS  |  Windows 11 Pro  |
+| Tela | SD de 15.6" | Full HD de 15.6" |
+| Memória | 6GB DDR4 (1x6GB) 1900MT/s; | 8GB DDR4 (1x8GB) 2666MT/s; |
+| Armazenamento | SSD de 400GB PCIe NVMe M.1 | SSD de 512GB PCIe NVMe M.2 |
+| Duração da bateria | Até 8 horas e 10 minutos | Até 9 horas e 15 minutos |
+| Peso | 1,52 kg  | 1,62 kg |
+
+### Links relacionados:
+[Dell Technologies](https://www.dell.com/pt-br/shop/cty/pdp/spd/inspiron-15-3530-laptop/brpicubto3530gtnsw?tfcid=31768715&gacd=9657105-15015-5761040-275878141-0&dgc=ST&cid=71700000122547973&gclsrc=aw.ds&gad_source=1&gad_campaignid=22710346479&gbraid=0AAAAADz5MFtuqgsvjPxM0K9yANo8XuJ-A&gclid=Cj0KCQjw5JXFBhCrARIsAL1ckPujzAzY1Nw8_p-igjjDGNGJsXTu4-QHCNy626TfNicguetq4Fokf2MaAofqEALw_wcB)
+
+[Tech Mobile](https://www.tecmobile.com.br/blog/dell-inspiron-15/)
+
+## 
+
+
